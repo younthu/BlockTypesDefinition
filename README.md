@@ -21,4 +21,4 @@ typedef id   (^blockIdIdIdId)  (id value1, id value2, id value3);
 #endif
 ```
 # MIT License
-be glad to share it with you.
+Be glad to share it with you, you can use it for whatever you want.
