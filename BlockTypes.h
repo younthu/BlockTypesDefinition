@@ -3,7 +3,7 @@
 //  Definitions for basic block types, licensed under MIT. 
 // 
 //  Created by Andrew Yang, 14-03-12.
-//  Copyright (c) 2015 Andrew Yang. All rights reserved.
+//  Copyright (c) 2015 Vector Icon Box, www.vectoriconbox.com. All rights reserved.
 //
 #ifndef __BlockTypes
 #define __BlockTypes
